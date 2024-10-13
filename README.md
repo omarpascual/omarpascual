@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>CyberSecurity (Projects)</b>
-  - [FirstProjectToComeSoon](https://github.com/omarpascual/)
+  - [FirstProjectToComeSoon](https://github.com/omarpascual/WindowsEventLogAnalysis)
 
 
 <h2> 🤳 Connect with me:</h2>
