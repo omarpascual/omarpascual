@@ -6,6 +6,7 @@
   - [WindowsEventLogAnalysis](https://github.com/omarpascual/WindowsEventLogAnalysis)
 
 - <b>Learning Bash</b>
+  - [IP Sweep](https://github.com/omarpascual/IPsweep)
 
 
 <h2> 🤳 Connect with me:</h2>
