@@ -5,6 +5,8 @@
 - <b>CyberSecurity (Projects)</b>
   - [WindowsEventLogAnalysis](https://github.com/omarpascual/WindowsEventLogAnalysis)
 
+- <b>Learning Bash</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
