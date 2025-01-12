@@ -4,6 +4,7 @@
 
 - <b>CyberSecurity (Projects)</b>
   - [WindowsEventLogAnalysis](https://github.com/omarpascual/WindowsEventLogAnalysis)
+  - [Splunk CIS Dashboard]
 
 - <b>Learning Bash</b>
   - [IP Sweep](https://github.com/omarpascual/IPsweep)
