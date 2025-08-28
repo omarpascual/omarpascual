@@ -1,5 +1,8 @@
 <h1>Hi, I'm Omar!
 
+<h2>OSINT Tools:</h2>
+-<b>Open Source Tools</b>
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>CyberSecurity (Projects)</b>
