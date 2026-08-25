@@ -9,7 +9,8 @@
 - <b>CyberSecurity (Projects)</b>
   - [WindowsEventLogAnalysis](https://github.com/omarpascual/WindowsEventLogAnalysis)
   - [Splunk CIS Dashboard](https://github.com/omarpascual/SplunkCIS-Dashboard)
-
+- <b> BlueTeamLabs(retired)
+  -[NetWorkAnalysis- WebShell](https://github.com/omarpascual/NetworkAnalysis-WebShell)
 - <b>Learning Bash</b>
   - [IP Sweep](https://github.com/omarpascual/IPsweep)
 
