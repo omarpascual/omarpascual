@@ -1,8 +1,7 @@
 <h1>Hi, I'm Omar!
 
 <h2>OSINT Tools:</h2>
--<b>[Open Source Tools]</b>
-  (https://github.com/omarpascual/OSINT)
+- <b>[Open Source Tools]</b>(https://github.com/omarpascual/OSINT)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
