@@ -9,7 +9,7 @@
 - <b>CyberSecurity (Projects)</b>
   - [WindowsEventLogAnalysis](https://github.com/omarpascual/WindowsEventLogAnalysis)
   - [Splunk CIS Dashboard](https://github.com/omarpascual/SplunkCIS-Dashboard)
-  - [Wazuh Dashboard]
+  - [Wazuh Dashboard](https://github.com/omarpascual/Wazuh-Dashboard)
 
  
 - <b> BlueTeamLabs(retired)</br>
